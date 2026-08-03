@@ -1,4 +1,4 @@
 # good luck
 hello 
--hi
--good luck
+- hi
+- good luck
